@@ -1,4 +1,4 @@
 # store
 
 
-Demo Link[https://yelnikov-andrii.github.io/store/]
+https://yelnikov-andrii.github.io/all
