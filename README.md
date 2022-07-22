@@ -1,4 +1,4 @@
 # store
 
 
-https://yelnikov-andrii.github.io/all
+https://yelnikov-andrii.github.io/
